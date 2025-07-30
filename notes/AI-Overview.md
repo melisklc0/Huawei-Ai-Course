@@ -1,5 +1,7 @@
 # Ai Overview
 
+[PDF Notes](../pdf/1_AI_Overview.pdf)
+
 Symbolism:   
 Connectionism: Simple processing yerine nöronlar kullanılmalı.  
 Behaviorism: Çevreyle etkileşim yaptıkça ai kendini geliştirebilir.

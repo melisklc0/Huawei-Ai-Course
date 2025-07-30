@@ -1,5 +1,98 @@
 # Machine Learning Overview
 
+[PDF Notes](../pdf/2_Machine_Learning_Overview.pdf)
+
+# Quick Facts
+
+## Learning Methods
+In supervised learning, models are trained only using labeled data.
+
+In K-means clustering, each data point is assigned to the cluster with the nearest mean (centroid).
+
+In unsupervised learning, clustering is used to group similar data points without predefined labels.
+
+In reinforcement learning, the feedback signal is scalar and does not directly tell the model which action is correct.
+
+## Model Performance
+Overfitting occurs when a model performs well on training data but poorly on unseen data.
+
+Feature selection helps improve model generalization and reduces the risk of overfitting.
+
+A model with high variance tends to memorize the training data and perform poorly on unseen data.
+
+A model with too low complexity can lead to underfitting, while too high complexity can cause overfitting.
+
+Generalization error measures how well the model performs on unseen data.
+
+## Ensemble Methods
+Ensemble learning can reduce variance and improve generalization.
+
+In ensemble learning, bagging reduces variance by training multiple models in parallel on different subsets of data.
+
+Random Forest uses bagging with multiple decision trees to improve stability and reduce variance.
+
+Boosting methods like GBDT reduce bias by sequentially training learners on residuals.
+
+Boosting methods train weak learners sequentially, where each new model focuses on the errors made by the previous ones.
+
+## Regularization and Feature Selection
+Lasso regression uses an L1-norm regularization term.
+
+L1 regularization (Lasso) can eliminate irrelevant features by setting their weights to zero.
+
+L2 regularization (Ridge) penalizes large weights and helps prevent overfitting.
+
+Wrapper feature selection methods require retraining the model for each subset of features, making them computationally expensive.
+
+Filter methods evaluate features independently of the machine learning model.
+Feature normalization ensures that features contribute equally to the model's output.
+
+Irrelevant features in a dataset can decrease model performance and increase training time.
+
+## Optimization and Gradient Descent
+
+Gradient descent may converge to a local minimum depending on the cost surface shape.
+
+Gradient descent updates model parameters in the direction of the negative gradient to minimize the loss.
+
+Mini-batch gradient descent combines the benefits of BGD and SGD, balancing speed and stability.
+
+Batch Gradient Descent (BGD) uses the entire training dataset to compute the gradient and update weights.
+
+Stochastic Gradient Descent (SGD) updates the model weights using only one sample at each iteration.
+
+Mini-Batch Gradient Descent (MBGD) improves efficiency by using small batches of data, balancing speed and stability.
+
+Learning rate is a key hyperparameter in all gradient descent variants and controls the step size during optimization.
+
+## Classification and Regression
+
+The softmax function is suitable for multi-class classification problems.
+
+Softmax regression extends logistic regression to multi-class classification by assigning probabilities to all classes.
+
+Classification and regression together constitute the majority of supervised learning tasks.
+
+Linear regression minimizes the squared difference between predicted and actual values using a loss function.
+
+Polynomial regression is used when data cannot be well-fitted by a linear function.
+
+The logistic regression model uses the sigmoid function to perform binary classification.
+
+## Validation and Evaluation
+
+In K-fold cross-validation, the dataset is split into k subsets, and the process is repeated k times with each subset used once as validation.
+
+Cross-validation improves model robustness by evaluating it across multiple training/validation splits.
+
+Confusion matrix helps evaluate classification models by tracking true/false positives and negatives.
+
+The Mean Squared Error (MSE) loss function penalizes larger errors more heavily due to squaring the difference.
+
+The F1 score provides a balance between precision and recall and is useful for imbalanced datasets.
+
+---
+
 Coverage rate: kurallar gerçek dünya verilerine her zaman uyumlu olmayabilir, how much data do the rules can fit?
 
 **Rule-based method:** elimizde değişen bi veriseti varsa kurallar da buna göre sürekli değişmelidir, bu da çok karmaşık olabilir.  
@@ -11,6 +104,8 @@ Fonksiyonun bir ideal mapping function u olmalıdır. source domain X ile target
 Objective function (f): Bu fonksiyon öğrenilir, direkt olarak elde edilemez. 
 
 Başka bir (g) fonksiyonu tanımlayarak f i olabildiğince tahmin etmeye çalışabiliriz. Bu fonksiyon f'e yaklaşan bir tahmini fonksiyondur.
+
+## Ana Notlar
 
 ## **Temel Kavramlar**
 **AI (Artificial Intelligence), Machine Learning (ML), ve Deep Learning (DL) arasındaki fark nedir?**
@@ -356,3 +451,4 @@ Variance: Tahmin değerinin, her tahminde ortalama değerden ne kadar değişti�
 
 Dependent variable: tahmin edilecek değer
 independent variable: tahmin etmek için kullanılacak değer
+

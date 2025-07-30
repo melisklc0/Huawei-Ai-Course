@@ -7,6 +7,9 @@ Bu repo, Huawei AI kursu kapsamında aldığım ders notlarını, özetleri ve g
 
 - [AI Overview](notes/AI-Overview.md)
 - [Machine Learning](notes/Machine-Learning.md)
+  - [Quick Facts](notes/Machine-Learning.md#quick-facts)
+  - [Main Notes](notes/Machine-Learning.md#ana-notlar)
+- [Deep Learning](notes/Deep-Learning.md)
 - [Neural Networks](notes/Neural-Networks.md)
 - [Image Processing](notes/Image-Processing.md)
 
