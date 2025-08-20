@@ -14,6 +14,7 @@ Bu repo, Huawei AI kursu kapsamında aldığım ders notlarını, özetleri ve g
 - [Image Processing](notes/Image-Processing.md)
 - [Speech Processing](notes/Speech-Processing.md)
 - [Natural Language Processing](notes/Natural-Language-Processing.md)
+- [Overview of Huawei AI Development](notes/Overview-of-Huawei-AI-Dev.md)
 
 ## Katkı ve Güncellemeler
 
