@@ -1,82 +1,84 @@
+[PDF Notes](../pdf/12_Natural_Language_Processing.pdf)
+
 # NLP
-![alt text](../notes-images/image-154.png)
-![alt text](../notes-images/image-155.png)
-![alt text](../notes-images/image-156.png)
+![alt text](../images/nlp/01-image-154.png)
+![alt text](../images/nlp/02-image-155.png)
+![alt text](../images/nlp/03-image-156.png)
 Semantic: anlamsal 
 Lexical: sözcük bilgisi
 
-![alt text](../notes-images/image-157.png)
-![alt text](../notes-images/image-158.png)
+![alt text](../images/nlp/04-image-157.png)
+![alt text](../images/nlp/05-image-158.png)
 
 ## Challanges in NLP
-![alt text](../notes-images/image-159.png)
+![alt text](../images/nlp/06-image-159.png)
 ambiguity: çok anlamlılık
 
-![alt text](../notes-images/image-160.png)
-![alt text](../notes-images/image-161.png)
-![alt text](../notes-images/image-162.png)
-![alt text](../notes-images/image-163.png)
+![alt text](../images/nlp/07-image-160.png)
+![alt text](../images/nlp/08-image-161.png)
+![alt text](../images/nlp/09-image-162.png)
+![alt text](../images/nlp/10-image-163.png)
 
-![alt text](../notes-images/image-164.png)
+![alt text](../images/nlp/11-image-164.png)
 
 # Language Model
-![alt text](../notes-images/image-165.png)
+![alt text](../images/nlp/12-image-165.png)
 
-![alt text](../notes-images/image-166.png)
-![alt text](../notes-images/image-167.png)
+![alt text](../images/nlp/13-image-166.png)
+![alt text](../images/nlp/14-image-167.png)
 
 Data çoksa yavaşlar, bunun için neural netwok model kullanılabilir.
 
-![alt text](../notes-images/image-168.png)
-![alt text](../notes-images/image-169.png)
+![alt text](../images/nlp/15-image-168.png)
+![alt text](../images/nlp/16-image-169.png)
 
-![alt text](../notes-images/image-170.png)
+![alt text](../images/nlp/17-image-170.png)
 
 # Text Vectorization
-![alt text](../notes-images/image-171.png)
-![alt text](../notes-images/image-172.png)
-![alt text](../notes-images/image-173.png)
+![alt text](../images/nlp/18-image-171.png)
+![alt text](../images/nlp/19-image-172.png)
+![alt text](../images/nlp/20-image-173.png)
 
-![alt text](../notes-images/image-174.png)
+![alt text](../images/nlp/21-image-174.png)
 word2vec: kelimeleri vektörlere dönüştürür, kelimeler arasındaki ilişkileri gösterir.
 Nasıl çalışır? 
-![alt text](../notes-images/image-175.png)
+![alt text](../images/nlp/22-image-175.png)
 doc2vec: cümleleri vektörlere dönüştürür, cümleler arasındaki ilişkileri gösterir.
 
 # Common Algorithms
-![alt text](../notes-images/image-176.png)
-![alt text](../notes-images/image-177.png)
+![alt text](../images/nlp/23-image-176.png)
+![alt text](../images/nlp/24-image-177.png)
 Hidden state 
-![alt text](../notes-images/image-178.png)
-![alt text](../notes-images/image-179.png)
-![alt text](../notes-images/image-180.png)
-![alt text](../notes-images/image-181.png)
-![alt text](../notes-images/image-182.png)
+![alt text](../images/nlp/25-image-178.png)
+![alt text](../images/nlp/26-image-179.png)
+![alt text](../images/nlp/27-image-180.png)
+![alt text](../images/nlp/28-image-181.png)
+![alt text](../images/nlp/29-image-182.png)
 GRU can choose to copy all the information to minimize the gradient vanishing problem.
-![alt text](../notes-images/image-183.png)
+![alt text](../images/nlp/30-image-183.png)
 
 # Key Tasks
-![alt text](../notes-images/image-184.png)
-![alt text](../notes-images/image-185.png)
-![alt text](../notes-images/image-186.png)
-![alt text](../notes-images/image-187.png)
+![alt text](../images/nlp/31-image-184.png)
+![alt text](../images/nlp/32-image-185.png)
+![alt text](../images/nlp/33-image-186.png)
+![alt text](../images/nlp/34-image-187.png)
 
-![alt text](../notes-images/image-188.png)
-![alt text](../notes-images/image-189.png)
+![alt text](../images/nlp/35-image-188.png)
+![alt text](../images/nlp/36-image-189.png)
 Capturing the essence of the text. Cümlede blood kelimesi daha çok geçiyor, daha önemli, mantığıyla çalışır.
 
-![alt text](../notes-images/image-190.png)
-![alt text](../notes-images/image-191.png)
+![alt text](../images/nlp/37-image-190.png)
+![alt text](../images/nlp/38-image-191.png)
 Linkleri önem sırasına koyar.
 
-![alt text](../notes-images/image-192.png)
+![alt text](../images/nlp/39-image-192.png)
 Topicler için.
 
-![alt text](../notes-images/image-193.png)
-![alt text](../notes-images/image-194.png)
-![alt text](../notes-images/image-195.png)
+![alt text](../images/nlp/40-image-193.png)
+![alt text](../images/nlp/41-image-194.png)
+![alt text](../images/nlp/42-image-195.png)
 
-![alt text](../notes-images/image-196.png)
+![alt text](../images/nlp/43-image-196.png)
 
 # QUIZ
 

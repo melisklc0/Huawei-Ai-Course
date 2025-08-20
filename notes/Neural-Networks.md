@@ -1,3 +1,5 @@
+[PDF Notes](../pdf/9_Neural_Networks.pdf)
+
 # Neural Networks Quiz
 
 ## True or False

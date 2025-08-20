@@ -1,32 +1,34 @@
+[PDF Notes](../pdf/13_Overview_of_Huawei_AI_Dev.pdf)
+
 # Overview of Huawei's AI Development
 ## AI
-![alt text](../notes-images/image-197.png)
-![alt text](../notes-images/image-198.png)
-![alt text](../notes-images/image-199.png)
-![alt text](../notes-images/image-200.png)
-![alt text](../notes-images/image-201.png)
-![alt text](../notes-images/image-202.png)
-![alt text](../notes-images/image-203.png)
-![alt text](../notes-images/image-204.png)
+![alt text](../images/overview-huawei-ai-dev/01-image-197.png)
+![alt text](../images/overview-huawei-ai-dev/02-image-198.png)
+![alt text](../images/overview-huawei-ai-dev/03-image-199.png)
+![alt text](../images/overview-huawei-ai-dev/04-image-200.png)
+![alt text](../images/overview-huawei-ai-dev/05-image-201.png)
+![alt text](../images/overview-huawei-ai-dev/06-image-202.png)
+![alt text](../images/overview-huawei-ai-dev/07-image-203.png)
+![alt text](../images/overview-huawei-ai-dev/08-image-204.png)
 
 # 10 changes create the future
-![alt text](../notes-images/image-205.png)
-![alt text](../notes-images/image-206.png)
-![alt text](../notes-images/image-207.png)
-![alt text](../notes-images/image-208.png)
-![alt text](../notes-images/image-209.png)
-![alt text](../notes-images/image-210.png)
-![alt text](../notes-images/image-211.png)
-![alt text](../notes-images/image-212.png)
-![alt text](../notes-images/image-213.png)
-![alt text](../notes-images/image-214.png)
+![alt text](../images/overview-huawei-ai-dev/09-image-205.png)
+![alt text](../images/overview-huawei-ai-dev/10-image-206.png)
+![alt text](../images/overview-huawei-ai-dev/11-image-207.png)
+![alt text](../images/overview-huawei-ai-dev/12-image-208.png)
+![alt text](../images/overview-huawei-ai-dev/13-image-209.png)
+![alt text](../images/overview-huawei-ai-dev/14-image-210.png)
+![alt text](../images/overview-huawei-ai-dev/15-image-211.png)
+![alt text](../images/overview-huawei-ai-dev/16-image-212.png)
+![alt text](../images/overview-huawei-ai-dev/17-image-213.png)
+![alt text](../images/overview-huawei-ai-dev/18-image-214.png)
 
 # Strategy for AI Development
-![alt text](../notes-images/image-215.png)
-![alt text](../notes-images/image-216.png)
-![alt text](../notes-images/image-217.png)
-![alt text](../notes-images/image-218.png)
-![alt text](../notes-images/image-219.png)
+![alt text](../images/overview-huawei-ai-dev/19-image-215.png)
+![alt text](../images/overview-huawei-ai-dev/20-image-216.png)
+![alt text](../images/overview-huawei-ai-dev/21-image-217.png)
+![alt text](../images/overview-huawei-ai-dev/22-image-218.png)
+![alt text](../images/overview-huawei-ai-dev/23-image-219.png)
 
 # QUIZ 
 
